@@ -1,0 +1,21 @@
+* About me
+
+* Thought Process
+  - Unlearn - Alvin Toffler Quote
+  - 3 kind of information
+  - Cognitive Bias
+  - Brain Muscle
+  - Andy Hunt
+    - Debugging Your Mind - https://vimeo.com/68378949
+    - Mining Your Creativity Mind - https://vimeo.com/68375234
+  - Mark Seeman
+    - Zone out, check in, move on - https://vimeo.com/97419151
+  - idioms
+    - http://blog.ploeh.dk/2013/10/21/replace-overloading-with-discriminated-unions/
+
+* Verbs - Buried Abstraction
+
+* Thinking Declaratively
+
+* Functional Design Patterns
+
